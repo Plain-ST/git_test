@@ -1,3 +1,3 @@
 # git_test
-githubのリポジトリの操作テスト　　
+githubのリポジトリの操作テスト  
 pythonで制御します．
